@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "ciao mondo"
+echo "hello world"
 
 
 
